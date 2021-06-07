@@ -1,2 +1,2 @@
-# Network-config-using-packet-tracer
+# Configuring a variety of networks on Packet Tracer 
  
